@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true
+  },
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs",
+      "types": ["@types/node"]
+    }
+  }
+}
